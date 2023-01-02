@@ -14,7 +14,7 @@ for question in response.json()['items']:
     else:
         print('skipped')
     print()
-# print(response.json()['items'])
+print(response.json()['items'])
 
 
 
